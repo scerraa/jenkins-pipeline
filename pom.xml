@@ -41,6 +41,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>jenkins-pipeline</finalName>
 	</build>
 
 </project>
